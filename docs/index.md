@@ -6,8 +6,8 @@ hero:
   tagline: One locked door gives us a small, repeatable test of generated code, sound, and 3D assets. Follow each piece from prompt to playtest.
   actions:
     - theme: brand
-      text: Explore the experiments
-      link: /experiments
+      text: Read the project plan
+      link: /project-record
     - theme: alt
       text: Record a run
       link: /field-notes
